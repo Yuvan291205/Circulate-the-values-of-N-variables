@@ -33,9 +33,10 @@ def circulate():
   ```
 
 ## Output:
-!["Output"](/circulateoutput-1.png)
-
+!["Output](/circulateoutput-3.png)
 ## Result:
 Thus the python program for 
 Circulate the values of n
 variables is executed successfully
+
+[def]: /circulateoutput-1.png
