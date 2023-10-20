@@ -33,7 +33,7 @@ def circulate():
   ```
 
 ## Output:
-!["Output](/circulateoutput-3.png)
+!["Output](circulateoutput-3.png)
 ## Result:
 Thus the python program for 
 Circulate the values of n
